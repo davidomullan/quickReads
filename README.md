@@ -1,8 +1,8 @@
 # Quick Reads
 An app for short stories that a user can quickly flip through. (Tik Tok short stories)
 
-## Visit the site at (tbd):
-[example.com](https://www.example.com)
+## Visit the site at:
+[Click Here](https://young-refuge-32615-373681d18f80.herokuapp.com)
 
 ## Version Control
 
