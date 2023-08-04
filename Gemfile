@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+group :production do
+  # Use PostgreSQL for Heroku Deployment
+  gem 'pg', '~> 1.5', '>= 1.5.3'
+end

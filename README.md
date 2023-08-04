@@ -6,8 +6,8 @@ An app for short stories that a user can quickly flip through. (Tik Tok short st
 
 ## Version Control
 
-Ruby [3.2.2](https://www.ruby-lang.org/en/news/2023/03/30/ruby-3-2-2-released/)
-Rails [7.0.6](https://rubyonrails.org/2023/6/29/Rails-7-0-6-has-been-released)
+- Ruby [3.2.2](https://www.ruby-lang.org/en/news/2023/03/30/ruby-3-2-2-released/)
+- Rails [7.0.6](https://rubyonrails.org/2023/6/29/Rails-7-0-6-has-been-released)
 
 ## Contributers
 
