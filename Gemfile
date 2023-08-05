@@ -69,6 +69,12 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
+  # Beautify testing
+  gem 'minitest', '~> 5.19'
+  gem 'minitest-reporters', '~> 1.1', '>= 1.1.11'
+  # Automate testing
+  gem 'guard', '~> 2.18'
+  gem 'guard-minitest', '~> 2.4', '>= 2.4.6'
 end
 
 group :production do
