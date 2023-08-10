@@ -5,8 +5,8 @@ An app for short stories that a user can quickly flip through. (Tik Tok short st
 [Click Here](https://young-refuge-32615-373681d18f80.herokuapp.com)
 
 ## Site Blueprint:
-![QuickReads Full Website Wireframe layout](/quickReads/app/assets/images/QRFullWebpage.drawio.png)
-![QuickReads Mobile Website Wireframe layout](/quickReads/app/assets/images/QuickReadsMobileWebsite.drawio.png)
+![QuickReads Full Website Wireframe layout](app/assets/images/QRFullWebpage.drawio.png)
+![QuickReads Mobile Website Wireframe layout](app/assets/images/QuickReadsMobileWebsite.drawio.png)
 
 ## Version Control
 
