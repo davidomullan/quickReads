@@ -4,6 +4,10 @@ An app for short stories that a user can quickly flip through. (Tik Tok short st
 ## Visit the site at:
 [Click Here](https://young-refuge-32615-373681d18f80.herokuapp.com)
 
+## Site Blueprint:
+![QuickReads Full Website Wireframe layout](/quickReads/app/assets/images/QRFullWebpage.drawio.png)
+![QuickReads Mobile Website Wireframe layout](/quickReads/app/assets/images/QuickReadsMobileWebsite.drawio.png)
+
 ## Version Control
 
 - Ruby [3.2.2](https://www.ruby-lang.org/en/news/2023/03/30/ruby-3-2-2-released/)
